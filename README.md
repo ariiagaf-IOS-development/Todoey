@@ -2,6 +2,20 @@
 
 A simple iOS to-do list application built with **UIKit** and **Core Data**. The app allows users to create categories, add tasks inside each category, mark tasks as completed, search through tasks, and delete items with swipe actions.
 
+## Screenshots
+
+### Categories Screen
+<img width="786" height="1610" alt="Снимок экрана 2026-04-22 в 13 09 06-Photoroom" src="https://github.com/user-attachments/assets/f68434ce-40e6-4af2-a218-385b77415a63" />
+
+### Items Screen
+<img width="772" height="1612" alt="Снимок экрана 2026-04-22 в 13 09 19-Photoroom" src="https://github.com/user-attachments/assets/68f1ae1b-8b1d-47bc-812c-8a1558416ce8" />
+
+### Swipe to Delete
+<img width="782" height="1620" alt="Снимок экрана 2026-04-22 в 13 09 32-Photoroom" src="https://github.com/user-attachments/assets/3d56ac7a-f95e-48a0-a242-ac094b3a99e7" />
+
+### Search
+<img width="776" height="1618" alt="Снимок экрана 2026-04-22 в 13 10 07-Photoroom" src="https://github.com/user-attachments/assets/9fbe8be2-719a-401f-95c1-bdb2cc1ca91b" />
+
 ## Features
 
 - Create and save task categories
