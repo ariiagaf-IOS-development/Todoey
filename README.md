@@ -1,3 +1,12 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-5-orange" />
+  <img src="https://img.shields.io/badge/UIKit-iOS-blue" />
+  <img src="https://img.shields.io/badge/Core%20Data-Persistence-lightgrey" />
+  <img src="https://img.shields.io/badge/Xcode-iOS%20Development-blue" />
+  <img src="https://img.shields.io/badge/SPM-Dependencies-red" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+</p>
+
 # Todoey
 
 A simple iOS to-do list application built with **UIKit** and **Core Data**. The app allows users to create categories, add tasks inside each category, mark tasks as completed, search through tasks, and delete items with swipe actions.
