@@ -40,6 +40,7 @@ Todoey
 │   └── Base.lproj
 ├── AppDelegate.swift
 └── Info.plist
+```
 
 ## Core Functionality
 
